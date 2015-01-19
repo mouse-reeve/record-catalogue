@@ -1,28 +1,28 @@
-Catalog#,Artist,Title,Label,Format,Rating,Released,release_id,CollectionFolder,Date Added,Collection Media Condition,Collection Sleeve Condition,Collection Purchased At
-CAD3218,Purity Ring,Shrines,4AD,"LP, Album, Gat",,2012,4235004,Uncategorized,2014-12-05 20:23:02,,,Amoeba
-75033,Deltron 3030,Deltron 3030,75 Ark,"2xLP, Album",,2000,103386,Uncategorized,2014-12-08 21:37:32,,,Green Apple Books
-BELLAV225,Beach House,Teen Dream,Bella Union,"2xLP, Album + DVD-V",,2010,2235043,Uncategorized,2014-12-03 15:23:17,,,Amoeba
-CT-192,Perfect Pussy,Say Yes To Love,Captured Tracks,LP,,2014,5505855,Uncategorized,2014-12-27 15:47:37,,,Amoeba
-cak70,Cloud Nothings,Attack On Memory,Carpark Records,"LP, Album",,2012,3370640,Uncategorized,2015-01-15 16:20:51,,,Amoeba
-CAK92,Cloud Nothings,Here And Nowhere Else,"Carpark Records, Mom + Pop","LP, Album",,2014,5538523,Uncategorized,2014-12-10 23:05:29,,,Amazon
-CHSW 13,Sleater-Kinney,Call The Doctor,Chainsaw,"LP, Album",,1996,2033697,Uncategorized,2014-12-03 15:22:02,,,Amoeba
-88697558651,Broken Bells (2),Broken Bells,Columbia,"LP, Album",,2010,2183622,Uncategorized,2014-12-27 15:47:37,,,Amoeba
-MS 6148,Rachmaninoff* - Philippe Entremont / Leonard Bernstein,Concerto No. 2 / Three Preludes For Piano,Columbia Masterworks,"LP, Album",,1966,3252952,Uncategorized,2014-12-07 16:32:28,,,Alameda Antiques Fair
-421984/2PG,Poison Girls,Chappaquiddick Bridge,Crass Records,"LP, Album",,1980,4274409,Uncategorized,2014-12-20 12:26:44,,,Amoeba
-"2535 302, 138 802",Beethoven* - Berliner Philharmoniker · Herbert von Karajan,»Eroica«,"Deutsche Grammophon, Deutsche Grammophon","LP, RP",,0,1864964,Uncategorized,2014-12-07 16:30:22,,,Alameda Antiques Fair
-B0006337-01,Yeah Yeah Yeahs,Show Your Bones,"Interscope Records, Dress Up","LP, Album",,2006,1361856,Uncategorized,2014-12-29 17:35:37,,,Amoeba
-KRS-204,Bikini Kill,Bikini Kill,Kill Rock Stars,"12"", EP",,1992,412414,Uncategorized,2014-12-20 12:27:41,,,Amoeba
-OLE-952-1,Fucked Up,David Comes To Life,Matador,"2xLP, Album",,2011,2911295,Uncategorized,2014-12-27 15:47:37,,,Amoeba
-OLE-1036-1,Savages (2),Silence Yourself,"Matador, Pop Noire","LP, Album",,2013,4595665,Uncategorized,2014-12-11 11:04:40,,,Amazon
-534291-1,Bombino*,Nomad,Nonesuch,"LP, Album",,2013,4465769,Uncategorized,2014-12-27 16:04:24,,,Amoeba
-BOOBOO8LP,Rudimentary Peni,Archaic,Outer Himalayan Records,"12"", EP, RE, RM, Whi",,2013,5102309,Uncategorized,2015-01-15 16:21:12,,,Amoeba
-A 01617 R,"Pablo Casals, Prades Festival Orchestra / Schumann*",Schumann Concerto In A Minor For 'Cello And Orchestra Op.129,Philips,"10""",,0,5824379,Uncategorized,2014-12-07 16:34:22,,,Alameda Antiques Fair
-PRC-238,Japandroids,Celebration Rock,Polyvinyl Record Company,"LP, Album, Whi",,2012,3641367,Uncategorized,2015-01-17 14:01:56,,,Green Apple Books
-PR 24024,"Charlie Parker, Dizzy Gillespie, Bud Powell, Charles Mingus, Max Roach",The Greatest Jazz Concert Ever,Prestige,"2xLP, Comp, RM",,1973,1252193,Uncategorized,2014-12-07 16:31:42,,,Alameda Antiques Fair
-SAGA 5128,"Beethoven*, Fine Arts Quartet*",String Quartet No 14 In C Sharp Minor Opus 131,Saga (5),"LP, Album",,1973,3401576,Uncategorized,2014-12-07 16:28:53,,,Alameda Antiques Fair
-SILVER 056,Lemuria (3),Turnstile Comix #3,Silver Sprocket Bicycle Club,"7"", EP, Ltd, ""Ye",,2014,6402141,Uncategorized,2014-12-20 12:28:04,,,Silver Sproket Bicycle Club (online)
-SP 1103,Sleater-Kinney,Sleater-Kinney,Sub Pop,"LP, Album, RE, RM",,2014,6216432,Uncategorized,2014-12-04 10:15:06,,,Aquarius
-SP 670,Sleater-Kinney,The Woods,Sub Pop,"2xLP, Album, Gre",,2005,1974513,Uncategorized,2014-12-20 12:27:26,,,Amoeba
-SP1015,Metz,Metz,Sub Pop,"LP, Album",,2012,3932353,Uncategorized,2015-01-15 16:20:51,,,Amoeba
-"tup 49-1, comm 49-1, rtd 301.0049.1 28",Jawbreaker,24 Hour Revenge Therapy,"Tupelo Recording Company, Communion Label, Rough Trade Records GmbH","LP, Album",,1994,1595004,Uncategorized,2014-12-05 20:23:40,,,Amoeba
-BSK 3147,Sex Pistols,Never Mind The Bollocks Here's The Sex Pistols ,Warner Bros. Records,"LP, Album",,1977,6275857,Uncategorized,2014-12-27 15:47:37,,,Amoeba
+Catalog#,Artist,Title,Label,Format,Rating,Released,release_id,CollectionFolder,Date Added,Collection Media Condition,Collection Sleeve Condition,Collection Purchased At,Collection Color
+CAD3218,Purity Ring,Shrines,4AD,"LP, Album, Gat",,2012,4235004,Uncategorized,2014-12-05 20:23:02,,,Amoeba,Teal
+75033,Deltron 3030,Deltron 3030,75 Ark,"2xLP, Album",,2000,103386,Uncategorized,2014-12-08 21:37:32,,,Green Apple Books,
+BELLAV225,Beach House,Teen Dream,Bella Union,"2xLP, Album + DVD-V",,2010,2235043,Uncategorized,2014-12-03 15:23:17,,,Amoeba,
+CT-192,Perfect Pussy,Say Yes To Love,Captured Tracks,LP,,2014,5505855,Uncategorized,2014-12-27 15:47:37,,,Amoeba,
+cak70,Cloud Nothings,Attack On Memory,Carpark Records,"LP, Album",,2012,3370640,Uncategorized,2015-01-15 16:20:51,,,Amoeba,
+CAK92,Cloud Nothings,Here And Nowhere Else,"Carpark Records, Mom + Pop","LP, Album",,2014,5538523,Uncategorized,2014-12-10 23:05:29,,,Amazon,
+CHSW 13,Sleater-Kinney,Call The Doctor,Chainsaw,"LP, Album",,1996,2033697,Uncategorized,2014-12-03 15:22:02,,,Amoeba,
+88697558651,Broken Bells (2),Broken Bells,Columbia,"LP, Album",,2010,2183622,Uncategorized,2014-12-27 15:47:37,,,Amoeba,
+MS 6148,Rachmaninoff* - Philippe Entremont / Leonard Bernstein,Concerto No. 2 / Three Preludes For Piano,Columbia Masterworks,"LP, Album",,1966,3252952,Uncategorized,2014-12-07 16:32:28,,,Alameda Antiques Fair,
+421984/2PG,Poison Girls,Chappaquiddick Bridge,Crass Records,"LP, Album",,1980,4274409,Uncategorized,2014-12-20 12:26:44,,,Amoeba,
+"2535 302, 138 802",Beethoven* - Berliner Philharmoniker · Herbert von Karajan,»Eroica«,"Deutsche Grammophon, Deutsche Grammophon","LP, RP",,0,1864964,Uncategorized,2014-12-07 16:30:22,,,Alameda Antiques Fair,
+B0006337-01,Yeah Yeah Yeahs,Show Your Bones,"Interscope Records, Dress Up","LP, Album",,2006,1361856,Uncategorized,2014-12-29 17:35:37,,,Amoeba,
+KRS-204,Bikini Kill,Bikini Kill,Kill Rock Stars,"12"", EP",,1992,412414,Uncategorized,2014-12-20 12:27:41,,,Amoeba,
+OLE-952-1,Fucked Up,David Comes To Life,Matador,"2xLP, Album",,2011,2911295,Uncategorized,2014-12-27 15:47:37,,,Amoeba,
+OLE-1036-1,Savages (2),Silence Yourself,"Matador, Pop Noire","LP, Album",,2013,4595665,Uncategorized,2014-12-11 11:04:40,,,Amazon,
+534291-1,Bombino*,Nomad,Nonesuch,"LP, Album",,2013,4465769,Uncategorized,2014-12-27 16:04:24,,,Amoeba,
+BOOBOO8LP,Rudimentary Peni,Archaic,Outer Himalayan Records,"12"", EP, RE, RM, Whi",,2013,5102309,Uncategorized,2015-01-15 16:21:12,,,Amoeba,White
+A 01617 R,"Pablo Casals, Prades Festival Orchestra / Schumann*",Schumann Concerto In A Minor For 'Cello And Orchestra Op.129,Philips,"10""",,0,5824379,Uncategorized,2014-12-07 16:34:22,,,Alameda Antiques Fair,
+PRC-238,Japandroids,Celebration Rock,Polyvinyl Record Company,"LP, Album, Whi",,2012,3641367,Uncategorized,2015-01-17 14:01:56,,,Green Apple Books,White
+PR 24024,"Charlie Parker, Dizzy Gillespie, Bud Powell, Charles Mingus, Max Roach",The Greatest Jazz Concert Ever,Prestige,"2xLP, Comp, RM",,1973,1252193,Uncategorized,2014-12-07 16:31:42,,,Alameda Antiques Fair,
+SAGA 5128,"Beethoven*, Fine Arts Quartet*",String Quartet No 14 In C Sharp Minor Opus 131,Saga (5),"LP, Album",,1973,3401576,Uncategorized,2014-12-07 16:28:53,,,Alameda Antiques Fair,
+SILVER 056,Lemuria (3),Turnstile Comix #3,Silver Sprocket Bicycle Club,"7"", EP, Ltd, ""Ye",,2014,6402141,Uncategorized,2014-12-20 12:28:04,,,Silver Sproket Bicycle Club (online),Yellow
+SP 1103,Sleater-Kinney,Sleater-Kinney,Sub Pop,"LP, Album, RE, RM",,2014,6216432,Uncategorized,2014-12-04 10:15:06,,,Aquarius,
+SP 670,Sleater-Kinney,The Woods,Sub Pop,"2xLP, Album, Gre",,2005,1974513,Uncategorized,2014-12-20 12:27:26,,,Amoeba,
+SP1015,Metz,Metz,Sub Pop,"LP, Album",,2012,3932353,Uncategorized,2015-01-15 16:20:51,,,Amoeba,
+"tup 49-1, comm 49-1, rtd 301.0049.1 28",Jawbreaker,24 Hour Revenge Therapy,"Tupelo Recording Company, Communion Label, Rough Trade Records GmbH","LP, Album",,1994,1595004,Uncategorized,2014-12-05 20:23:40,,,Amoeba,
+BSK 3147,Sex Pistols,Never Mind The Bollocks Here's The Sex Pistols ,Warner Bros. Records,"LP, Album",,1977,6275857,Uncategorized,2014-12-27 15:47:37,,,Amoeba,
